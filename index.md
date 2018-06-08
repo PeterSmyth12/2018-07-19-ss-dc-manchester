@@ -60,7 +60,7 @@ day2_pm: "Basic Analysis and Visualisation in R"
   the pitch.
 {% endcomment %}
 <p>
-<a href=http://datacarpentry.org>Data Carpentry</a> workshops are for any researcher 
+<a href="http://datacarpentry.org">Data Carpentry</a> workshops are for any researcher 
 who has data they want to analyze, and no prior computational experience is required. 
 This hands-on workshop teaches basic concepts, skills and tools for working more 
 effectively with data. 
